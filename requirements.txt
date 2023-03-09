@@ -1,0 +1,16 @@
+tensorflow
+torch
+torchvision
+
+scikit-learn
+h5py
+matplotlib
+Pillow
+requests
+psutil
+imageio
+streamlit
+
+opencv-python-headless
+opencv-contrib-python-headless==4.5.3.56
+protobuf
